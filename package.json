@@ -9,7 +9,7 @@
   "author": "Adiixyz",
   "license": "ISC",
   "dependencies": {
-    "@open-wa/wa-automate": "^1.9.105",
+    "@open-wa/wa-automate": "^4.0.0",
     "@types/node": "^14.0.27",
     "moment": "^2.27.0",
     "ts-node": "^8.10.2",
